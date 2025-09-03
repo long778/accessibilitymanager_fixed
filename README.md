@@ -1,7 +1,8 @@
 # accessibilitymanager_fixed 
 
 Android Application To Fully Replace Accessibility Settings.From：https://github.com/WuDi-ZhanShen/AccessibilityManager
-
+Thanks to the original author
+@WuDi-ZhanShen
 原地址链接：https://github.com/WuDi-ZhanShen/AccessibilityManager
 
 无意间发现的一个可以替代xposed模块“无障碍deamon”的app，新版无障碍deamon1.0.4老是开启无障碍失败，降级到1.02版本之后貌似在新版的lsposed上不能很好的运行，时好时坏。
