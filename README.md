@@ -4,6 +4,7 @@ Android Application To Fully Replace Accessibility Settings.From：https://githu
 
 Thanks to the original author
 <a href="https://github.com/WuDi-ZhanShen/">  
+WuDi-ZhanShen
 </a>
 
 原地址链接：https://github.com/WuDi-ZhanShen/AccessibilityManager
