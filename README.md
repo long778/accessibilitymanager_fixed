@@ -1,5 +1,5 @@
 # accessibilitymanager_fixed
-A fixed version of the “WuDi-ZhanShen/AccessibilityManager”.From：https://github.com/WuDi-ZhanShen/AccessibilityManager
+A fixed version of the “AccessibilityManager” for Self-use.From：https://github.com/WuDi-ZhanShen/AccessibilityManager
 
 
 ## about this application
