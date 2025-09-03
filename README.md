@@ -17,7 +17,7 @@ Inadvertently found an app that can replace the xposed module "无障碍deamon".
 
 accessibilitymanager可以自动开启无障碍而且可以在后台进行保活，比magisk上的模块好用。
 
-It can automatically replace accessibility settings and keep alive in the background, which is better than the module on magisk in my device.
+It can automatically replace accessibility settings and keep alive in the background, which effect is better than the Accessibility Settings keep alive magisk module in my device.
 
 此安装包修复了在安卓9（miui11.0.2）上闪退的情况，因为原作者貌似好久没更新了，所以我自己去Android studio上deb了一下。发现是在创建无障碍列表时引发的崩溃，显示是有一个item是null。在查看了存储无障碍条目的xml后没发现异常，里面也没有空值，而且该问题是在我使用这个软件大概一个月后出现的。可能是某些软件的无障碍服务名字的问题。我为了修复这个问题，在创建列表时添加一个if else判断，对null值进行处理。
 
