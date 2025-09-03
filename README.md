@@ -2,7 +2,6 @@
  A fixed version of the “WuDi-ZhanShen/AccessibilityManager”.From：https://github.com/WuDi-ZhanShen/AccessibilityManager
 
 
-
 ## about this application
 
 Thanks to the original author
