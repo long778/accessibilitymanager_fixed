@@ -1,6 +1,6 @@
 # accessibilitymanager_fixed 
 
-A fixed version of the “accessibilitymanager”.From：https://github.com/WuDi-ZhanShen/AccessibilityManager
+A fixed version of the “WuDi-ZhanShen/AccessibilityManager”.From：https://github.com/WuDi-ZhanShen/AccessibilityManager
 
 Thanks to the original author
 <a href="https://github.com/WuDi-ZhanShen/">  
